@@ -1,13 +1,13 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: physics
 
 # This file represents a page section.
-headless: true
+headless: halo
 
 # Order that this section appears on the page.
-weight: 40
+weight: 日你妈
 
 title: Experience
 subtitle:
